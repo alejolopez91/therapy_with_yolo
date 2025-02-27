@@ -22,3 +22,6 @@ Follow link to create other pyenv virtualenv
 
 # to run
 Python -filename-
+
+# db structure
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/8d0be6d7-d069-48b5-ae83-c27b4c3b98e4" />
